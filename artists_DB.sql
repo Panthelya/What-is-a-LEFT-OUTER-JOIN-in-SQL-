@@ -7,3 +7,4 @@ CREATE TABLE artists (
 INSERT INTO artists (id, artist_name) VALUES (1, 'Isaac Hayes');
 INSERT INTO artists (id, artist_name) VALUES (2, 'Paul Simon');
 INSERT INTO artists (id, artist_name) VALUES (3, 'Stevie Wonder');
+INSERT INTO artists (id, artist_name) VALUES (4, 'George Benson');
